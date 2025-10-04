@@ -13,7 +13,6 @@
 ---
 
 ### 💡 About Me
-- 🔭 I’m currently working on **UrbNexus — a digital collaboration platform for smart cities**  
 - 🧠 Passionate about **Web Development**, **Cyber Security**, and **AI-powered tools**  
 - 🎯 Love turning creative ideas into **beautiful, functional applications**  
 - 🧩 Constantly learning, experimenting, and pushing boundaries in tech  
@@ -26,14 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,cpp,mongodb,git,github,vscode,linux,vercel" />
 </p>
-
----
-
-### 🧠 Projects & Innovations
-💬 **Ghost Assistant AI** — Invisible AI assistant that solves MCQs and coding problems while staying hidden during screen share.  
-🌐 **UrbNexus** — Smart city collaboration platform connecting departments through data and project management.  
-🕹️ **Lava Land** — A responsive JS game adaptable for both mobile and desktop users.  
-🧭 **TaskFlow** — Sleek, modern task manager with editable tasks and real-time updates.  
 
 ---
 
@@ -54,8 +45,8 @@
 
 <p align="center">
   <a href="https://github.com/subhradeep09" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/subhradeep09" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:subhradeepb09@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/subhradeep-bhattacharya/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:subhra080@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://subhradeep09.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
