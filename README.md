@@ -1,25 +1,68 @@
 ![logo](https://github.com/subhradeep09/subhradeep09/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Subhradeep Bhattacharya</h1>
-<h3 align="center">Pursuing B. Tech in Information Technology</h3>
-
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhradeep09&label=Profile%20views&color=0e75b6&style=flat" alt="subhradeep09" /> </p>
 
 
-- 📫 How to reach me **subhradeepbhattacharya44@gmail.com**
+<!-- 👋 Hi, I’m Subhradeep Bhattacharya -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhradeep09&show_icons=true&locale=en&layout=compact" alt="subhradeep09" /></p>
+<h1 align="center">Hey there 👋, I'm <span style="color:#4FA8F9;">Subhradeep Bhattacharya</span></h1>
+<h3 align="center">🚀 Full Stack Developer | Tech Explorer | Creative Innovator</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhradeep-bhattacharya-026269245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhradeep-bhattacharya-026269245" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100086398238060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhradeep bhattacharya" height="30" width="40" /></a>
-<a href="https://instagram.com/subhradeep_bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhradeep_bhattacharya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subhra09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhra09" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FA8F9&center=true&vCenter=true&width=600&lines=Building+cool+stuff+for+the+web;Turning+ideas+into+reality;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 💡 About Me
+- 🔭 I’m currently working on **UrbNexus — a digital collaboration platform for smart cities**  
+- 🧠 Passionate about **Web Development**, **Cyber Security**, and **AI-powered tools**  
+- 🎯 Love turning creative ideas into **beautiful, functional applications**  
+- 🧩 Constantly learning, experimenting, and pushing boundaries in tech  
+- 📸 Besides coding, I enjoy **video editing** & **photography**
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,cpp,mongodb,git,github,vscode,linux,vercel" />
+</p>
+
+---
+
+### 🧠 Projects & Innovations
+💬 **Ghost Assistant AI** — Invisible AI assistant that solves MCQs and coding problems while staying hidden during screen share.  
+🌐 **UrbNexus** — Smart city collaboration platform connecting departments through data and project management.  
+🕹️ **Lava Land** — A responsive JS game adaptable for both mobile and desktop users.  
+🧭 **TaskFlow** — Sleek, modern task manager with editable tasks and real-time updates.  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhradeep09&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeep09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhradeep09&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/subhradeep09" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/subhradeep09" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:subhradeepb09@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://subhradeep09.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhradeep09&label=Profile+Views&color=4FA8F9&style=flat" alt="subhradeep09" />
+</p>
+
+<h4 align="center">✨ “Code is like art — every line tells a story.” ✨</h4>
